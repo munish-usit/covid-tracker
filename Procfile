@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=9000 -jar target/covid-tracker-1.0.jar
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/covid-tracker-1.0.jar
