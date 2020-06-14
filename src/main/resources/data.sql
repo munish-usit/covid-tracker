@@ -1,4 +1,3 @@
-CREATE DATABASE IF NOT EXISTS `testdb`;
 
 /*DROP TABLE IF EXISTS `test_role`;*/
 CREATE TABLE IF NOT EXISTS `test_role` (
